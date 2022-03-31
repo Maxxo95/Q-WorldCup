@@ -1,0 +1,21 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="utf-8"> 
+    <meta name="author" content="your name"> 
+    <meta name="description" content="description of your page"> 
+    <title>My Page Title</title> 
+</head> 
+<body> 
+    <h1>2022 FIFA World Cup</h1>
+
+<p><em>"2022 World Cup" redirects here. For other competitions of that name, see <a href="https://en.wikipedia.org/wiki/2022_World_Cup_(disambiguation)"> 2022 World Cup (disambiguation). </a></em></p>
+
+<p>The <strong>2022 FIFA World Cup</strong> <a href="https://en.wikipedia.org/wiki/Arabic_language"> Arabic </a> كَأسُ اَلعَالَمِ 2022, <a href="https://en.wikipedia.org/wiki/Romanization_of_Arabic"> romanized </a>: <em>Kaʾsu al-ʿālami</em> 2022; <a href="https://en.wikipedia.org/wiki/Gulf_Arabic_language">Gulf Arabic</a> Gulf Arabic: كَاسُ اَلعَالَمِ ٢٠٢٢, romanized: <em>Kāsu al-ʿālami</em> 2022) is scheduled to be the 22nd running of the <a href="https://en.wikipedia.org/wiki/FIFA_World_Cup"> FIFA World Cup</a> competition, the quadrennial international men's <a href="https://en.wikipedia.org/wiki/Association_football"> football </a>  championship contested by the <a href="https://en.wikipedia.org/wiki/List_of_men%27s_national_association_football_teams"> national teams </a>  of the member associations of <a href="https://en.wikipedia.org/wiki/FIFA"> FIFA </a> . It is scheduled to take place in Qatar from 21 November to 18 December 2022. This will be the first World Cup ever to be held in the <a href="https://en.wikipedia.org/wiki/Arab_world"> Arab world </a> ,<sup>[1]</sup> and it will be the second World Cup held entirely in Asia after the <a href="https://en.wikipedia.org/wiki/2002_FIFA_World_Cup"> 2002 tournament </a> was held in South Korea and Japan.<sup>[a]</sup> In addition, the tournament will be the last to involve 32 teams, with an increase to 48 teams scheduled for the <a href="https://en.wikipedia.org/wiki/2026_FIFA_World_Cup"> 2026 tournament </a>  in the United States, Mexico, and Canada. The reigning World Cup champions are<a href="https://en.wikipedia.org/wiki/France_national_football_team"> France </a> .<sup>[2]</sup> Due to Qatar's intense summer heat, this World Cup will be held from late-November to mid-December, making it the first tournament not to be held in May, June, or July; it is to be played in a reduced timeframe of around 28 days.<sup>[3]</sup></p>
+
+<p>Accusations of corruption have been made relating to how Qatar won the right to host the event. A FIFA internal investigation and report cleared Qatar of any wrongdoing, but chief investigator <a href="https://en.wikipedia.org/wiki/Michael_J._Garcia"> Michael J. Garcia </a>  has since described FIFA's report on his enquiry as containing "numerous materially incomplete and erroneous representations."<sup>[4]</sup> On 27 May 2015, Swiss federal prosecutors opened an investigation into corruption and money laundering related to the <a href="https://en.wikipedia.org/wiki/2018_and_2022_FIFA_World_Cup_bids"> 2018 and 2022 World Cup bids</a> .<sup>[5][6]</sup> On 6 August 2018, former FIFA president <a href="https://en.wikipedia.org/wiki/Sepp_Blatter"> Sepp Blatter </a>  claimed that Qatar had used "black ops", suggesting that the bid committee had cheated to win the hosting rights.<sup>[7]</sup> Additionally, Qatar has faced strong criticism due to the treatment of foreign workers involved in preparation for the World Cup, with<a href="https://en.wikipedia.org/wiki/Amnesty_International"> Amnesty International </a>  referring to "forced labour" and stating that hundreds or thousands of migrant workers have died as a result of human rights abuses, and careless and inhumane work conditions.<sup>[8]</sup></p>
+
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png" alt="FIFA WORLD CUP Qatar 2022">
+</body> 
+</html>
+
