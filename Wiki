@@ -64,23 +64,23 @@
                     alt="FIFA WORLD CUP Qatar 2022">
                 <figcaption>
                     FIFA WORLD CUP
-                    
-                    <table style="width: 1%;" border = "1" cellpadding = "1">
-                        <tbody>
-                            <tr>
-                                <td> </td>
+                <style>table, tr, td{border: 1 ; border-collapse: collapse;}</style>
+                    <table style="width: 50%;"   "  cellpadding = "1" background-color="#96D4D4;"    >
+                        <tbody> 
+                            <tr> 
+                                <td  > <nav>
+                                    <ul >
+                                        &nbsp;&nbsp;&nbsp;&nbsp;<strong>Contents</strong>
+                                        <li>1&nbsp;<a HREF="#1"> Host selection</a></li>
+                                        <li>2&nbsp;<a HREF="#2"> Possible expansion</a></li>
+                                        <li>3<a HREF="#3"> Qualification</a></li>
+                                        <li> &nbsp;&nbsp; 3.1 <a HREF="#4"> Qualified teams</a></li>
+                                    </ul>
+                                </nav> </td>
                             </tr>
                         </tbody>
                     </table>
-                    <nav>
-                        <ul>
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Contents</strong>
-                            <li>1&nbsp;<a HREF="#1"> Host selection</a></li>
-                            <li>2&nbsp;<a HREF="#2"> Possible expansion</a></li>
-                            <li>3&nbsp;<a HREF="#3"> Qualification</a></li>
-                            <li>&nbsp;&nbsp;&nbsp;&nbsp;3.1&nbsp; <a HREF="#3"> Qualified teams</a></li>
-                        </ul>
-                    </nav>
+                   
                     <h2 id="1">Host selection</h2>
                     <hr size="1" width="100%" color="black">
                     <p>&nbsp;&nbsp;&nbsp;<em>Main articles</em>:<a
