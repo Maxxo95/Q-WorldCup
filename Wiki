@@ -130,7 +130,59 @@ Korea, and the United States. The twenty-two member Committee convened in <a
                         criticised by many as being part of the FIFA corruption scandals.<sup>[16]</sup>
 
 The voting patterns were as follows:<sup>[17]</sup>
-                    </p>
+
+<table  style="width:100%;background-color:#F0F8FF;"border="1" border-collapse="collapse">
+  
+
+    <tr  >
+      <th style="width:26%;"rowspan = "2"   >Bidders</th>
+      <th style="width:18.5%;" colspan="4">votes</th>
+
+    </tr>
+    <tr>
+       
+        <th>Round 1</th>
+        <th style="width:18.5%;">Round 2</th>
+        <th style="width:18.5%;">Round 3</th>
+        <th style="width:18.5%;">Round 4</th>
+      </tr>
+      <tr>
+        <th  style = "background-color: #e8efe1;" >Qatar</th>
+        <td  style = "background-color: #e8efe1;">11</td>
+        <td  style = "background-color: #e8efe1;">10</td>
+        <td  style = "background-color: #e8efe1;">11</td>
+        <td  style = "background-color: #2cf84e ;">14</td>
+      </tr>
+      <tr  style = "background-color: #e8efe1;">
+        <td>United States</td>
+        <td>3</td>
+        <td>5</td>
+        <td>6</td>
+        <td>8</td>
+      </tr>
+      <tr  style = "background-color: #e8efe1;">
+        <td>South Korea</td>
+        <td>4</td>
+        <td>5</td>
+        <td>5</td>
+        <td  style = "background-color:#dab3ef ;">Eliminated</td>
+      </tr>
+      <tr  style = "background-color: #e8efe1;">
+        <td>Japan</td>
+        <td>3</td>
+        <td>2</td>
+        <td colspan="2"  style = "background-color:#dab3ef ;">Eliminated</td>
+        <td></td>
+      </tr>
+      <tr  style = "background-color: #e8efe1;">
+        <td>Australia</td>
+        <td>1</td>
+        <td colspan="3"  style = "background-color:#dab3ef ;">Eliminated</td>
+        <td></td>
+        <td></td>
+      </tr>
+  
+  </table>
  <p>
                         There have been allegations of bribery and corruption in the selection process involving FIFA's
                         executive committee members. These allegations are being investigated by FIFA (<em>see</em> <a
