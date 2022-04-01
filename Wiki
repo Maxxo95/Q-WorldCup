@@ -12,15 +12,14 @@
 <body>
     <header>
 
-    </header>
-    <main>
+</header>
+<main>
         <h1>2022 FIFA World Cup</h1>
-        <hr size="1" width="100%" color="black">
+        <hr size=".1" width="100%" color="black">
         <selection>
             <p><em>&nbsp;&nbsp;&nbsp;"2022 World Cup" redirects here. For other competitions of that name, see <a
                         href="https://en.wikipedia.org/wiki/2022_World_Cup_(disambiguation)"> 2022 World Cup
                         (disambiguation). </a></em></p>
-
             <p>The <strong>2022 FIFA World Cup</strong> <a href="https://en.wikipedia.org/wiki/Arabic_language"> Arabic
                 </a> كَأسُ اَلعَالَمِ 2022, <a href="https://en.wikipedia.org/wiki/Romanization_of_Arabic"> romanized
                 </a>: <em>Kaʾsu al-ʿālami</em> 2022; <a href="https://en.wikipedia.org/wiki/Gulf_Arabic_language">Gulf
@@ -41,7 +40,6 @@
                 to Qatar's intense summer heat, this World Cup will be held from late-November to mid-December, making
                 it the first tournament not to be held in May, June, or July; it is to be played in a reduced timeframe
                 of around 28 days.<sup>[3]</sup></p>
-
             <p>Accusations of corruption have been made relating to how Qatar won the right to host the event. A FIFA
                 internal investigation and report cleared Qatar of any wrongdoing, but chief investigator <a
                     href="https://en.wikipedia.org/wiki/Michael_J._Garcia"> Michael J. Garcia </a> has since described
@@ -57,18 +55,34 @@
                     Amnesty International </a> referring to "forced labour" and stating that hundreds or thousands of
                 migrant workers have died as a result of human rights abuses, and careless and inhumane work
                 conditions.<sup>[8]</sup></p>
+                <h3 style="text-align:center;">2022 FIFA World Cup</h3>
+<table style="width:15%;background-color:#F0F8FF;"border="1" >
 
 
-            <figure> <img
-                    src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png"
-                    alt="FIFA WORLD CUP Qatar 2022">
-                <figcaption>
-                    FIFA WORLD CUP
-                <style>table, tr, td{border: 1 ; border-collapse: collapse;}</style>
-                    <table style="width: 50%;"   "  cellpadding = "1" background-color="#96D4D4;"    >
+<tbody> 
+    <td> 
+        <h6 style="text-align:center;"><a href="https://en.wikipedia.org/wiki/Arabic_language">Arabic</a>: <strong>كَأسُ اَلعَالَمِ2022 </strong></h6>
+        <h6 style="text-align:center;"><a href="https://en.wikipedia.org/wiki/Gulf_Arabic_language">Gulf Arabic:</a> كَاسُ اَلعَالَمِ ٢٠٢</h6>
+        <h6 style="text-align:center;"><strong>Qatar 2022</strong></h6>
+        <h6 style="text-align:center;"><strong>قطر ٢٠٢٢</strong></h6>
+        <figure> <img
+            src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/314px-2022_FIFA_World_Cup.svg.png"
+            alt="FIFA WORLD CUP Qatar 2022">
+        <figcaption style="text-align:center;" >
+            <small>The official emblem</small>
+<figcaption> <small><strong>Tournament details</small></strong>
+    <figcaption style="text-align:left;"> <small><strong>Host country</strong > &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Qatar</small>
+        <figcaption> <small><strong>Dates</strong>   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;21 November-18December</small>      
+            <figcaption> <small><strong>Teams</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;32 (32)from 5 or 6 confederations</small>
+                <figcaption> <small><strong>Venue(s)</strong>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 8(in 5 host cities)</small>      
+</td>
+</tbody>
+</table>              
+                    
+<table    style="width:50%;text-align:left;background-color:#F0F8FF;"   border="1" >
                         <tbody> 
-                            <tr> 
-                                <td  > <nav>
+                                <td> 
+                                <nav>
                                     <ul >
                                         &nbsp;&nbsp;&nbsp;&nbsp;<strong>Contents</strong>
                                         <li>1&nbsp;<a HREF="#1"> Host selection</a></li>
@@ -77,16 +91,14 @@
                                         <li> &nbsp;&nbsp; 3.1 <a HREF="#4"> Qualified teams</a></li>
                                     </ul>
                                 </nav> </td>
-                            </tr>
                         </tbody>
-                    </table>
-                   
+                    </table>                
                     <h2 id="1">Host selection</h2>
                     <hr size="1" width="100%" color="black">
                     <p>&nbsp;&nbsp;&nbsp;<em>Main articles</em>:<a
                             href="https://en.wikipedia.org/wiki/2018_and_2022_FIFA_World_Cup_bids"> 2018 and 2022 FIFA
                             World Cup bids and Qatar 2022 FIFA
-                            World Cup bid</a></p>
+                     World Cup bid</a></p>
                     <p>The <a href="https://en.wikipedia.org/wiki/2018_and_2022_FIFA_World_Cup_bids">bidding procedure
                             to host the 2018 and 2022 FIFA World Cups</a> began in January 2009, and
                         national associations had until 2 February 2009 to register their interest.<sup>[9]</sup>
@@ -104,9 +116,9 @@
                             href="https://en.wikipedia.org/wiki/UEFA">UEFA </a>nation would host the 2018
                         tournament and thereby making UEFA nations ineligible for the 2022 bid.[citation needed]
 
-                        In the end, there were five bids for the 2022 FIFA World Cup: Australia, Japan, Qatar, South
-                        Korea, and the United States. The twenty-two member Committee convened in <a
-                            href="https://en.wikipedia.org/wiki/Z%C3%BCrich">Zürich</a>
+In the end, there were five bids for the 2022 FIFA World Cup: Australia, Japan, Qatar, South
+Korea, and the United States. The twenty-two member Committee convened in <a
+                         href="https://en.wikipedia.org/wiki/Z%C3%BCrich">Zürich</a>
                         on 2 December 2010 to vote to select the hosts of both tournaments.<sup>[13]</sup> Two <a
                             href="https://en.wikipedia.org/wiki/FIFA_Executive_Committee">FIFA executive
                             committee </a> members were suspended before the vote in relation to allegations of
@@ -117,36 +129,34 @@
                         It has been
                         criticised by many as being part of the FIFA corruption scandals.<sup>[16]</sup>
 
-                        The voting patterns were as follows:<sup>[17]</sup>
-
+The voting patterns were as follows:<sup>[17]</sup>
                     </p>
-
-                    <p>
+ <p>
                         There have been allegations of bribery and corruption in the selection process involving FIFA's
                         executive committee members. These allegations are being investigated by FIFA (<em>see</em> <a
                             href="https://en.wikipedia.org/wiki/2022_FIFA_World_Cup#Bidding_corruption_allegations">
                             <em>§ Bidding
                                 corruption allegations</em></a>, <em>below)</em>.
 
-                        Qatar is the smallest nation by area ever to have been awarded a FIFA World Cup – the next
-                        smallest by area is Switzerland, host of the <a
+Qatar is the smallest nation by area ever to have been awarded a FIFA World Cup – the next
+smallest by area is Switzerland, host of the <a
                             href="https://en.wikipedia.org/wiki/1954_FIFA_World_Cup">1954 FIFA World Cup</a>, which is
                         more than three times
                         as large as Qatar and only needed to host 16 teams instead of the current 32.
 
-                        Qatar also became only the second country (not including Uruguay, as hosts of the first-ever
+Qatar also became only the second country (not including Uruguay, as hosts of the first-ever
                         World Cup) to be awarded a FIFA World Cup despite having never qualified for a previous edition.
-                        Japan was previously awarded co-hosting rights of the <a
+Japan was previously awarded co-hosting rights of the <a
                             href="https://en.wikipedia.org/wiki/2002_FIFA_World_Cup">2002 FIFA World Cup</a> alongside
                         South Korea
                         without ever having qualified for the finals, although they subsequently qualified for the <a
                             href="https://en.wikipedia.org/wiki/1998_FIFA_World_Cup">1998
                             FIFA World Cup</a>.
 
-                        Some investigations found that Qatar sought an edge in securing hosting by hiring a former CIA
+Some investigations found that Qatar sought an edge in securing hosting by hiring a former CIA
                         officer turned private contractor, Kevin Chalker, to spy on rival bid teams and key football
                         officials who picked the winner in 2010.<sup>[19]</sup>
-                    </p>
+</p>
                     <h2 id="2">Possible expansion</h2>
                     <hr size="1" width="100%" color="black">
                     <p>
@@ -162,12 +172,12 @@
                         global football governing body would not discuss the possibility of having a 48-team World Cup,
                         and that they would first discuss the matter with the host country.<sup>[23]</sup>
 
-                        In March 2019, a "FIFA feasibility study" concluded that it was possible to expand the
+In March 2019, a "FIFA feasibility study" concluded that it was possible to expand the
                         tournament to 48 teams, albeit with the assistance of "one or more" neighbouring countries and
                         "two to four additional venues." FIFA also said that "while it cannot rule out legal action from
                         losing bidders by changing the format [of the tournament], the study said it 'concluded that the
                         risk was low'." FIFA and Qatar would have explored possible joint proposals to submit to the
-                        <a href="https://en.wikipedia.org/wiki/FIFA_Council">FIFA Council</a> and the <a
+<a href="https://en.wikipedia.org/wiki/FIFA_Council">FIFA Council</a> and the <a
                             href="https://en.wikipedia.org/wiki/FIFA_Congress">FIFA Congress</a> later in June. Had a
                         joint proposal been submitted, FIFA's
                         member associations would have voted on the final decision at the 69th FIFA Congress in <a
@@ -198,18 +208,18 @@
                         </a>initially
                         entered qualification but withdrew from it before their first match. <a
                             href="https://en.wikipedia.org/wiki/North_Korea_national_football_team">North Korea
-                        </a>withdrew from
+</a>withdrew from
                         the qualifying round due to safety concerns related to the COVID-19 pandemic. American Samoa and
                         Samoa both withdrew before the OFC draw. Tonga withdrew after the 2022 Hunga Tonga–Hunga Ha'apai
                         eruption and tsunami. Due to COVID-19 outbreaks in their squads, Vanuatu and Cook Islands also
                         withdrew.
 
-                        The allocation of slots for each confederation was discussed by the FIFA Executive Committee on
+The allocation of slots for each confederation was discussed by the FIFA Executive Committee on
                         30 May 2015 in Zürich after the FIFA Congress.<sup>[30]</sup> The committee decided that the
                         allocations in
                         2006, which remained unchanged for 2010, 2014, and 2018, would continue for the 2022
                         tournament:<sup>[31]</sup>
-                    <ul>
+<ul>
                         <li><a href="https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_qualification_(CAF)">CAF
                             </a>(Africa): 5</li>
                         <li><a href="https://en.wikipedia.org/wiki/2022_FIFA_World_Cup_qualification_(AFC)">AFC </a>
@@ -231,9 +241,9 @@
                         href="https://en.wikipedia.org/wiki/Brunei_national_football_team">Brunei</a> 2–0 on 6 June, in
                     which Mongolian player Norjmoogiin Tsedenbal scored the first goal of qualifying.<sup>[33]</sup>
 
-                    Due to concerns about the heat, leading football clubs in Europe wanted the World Cup to take place
+Due to concerns about the heat, leading football clubs in Europe wanted the World Cup to take place
                     from 28 April to 29 May rather than the typical June and July staging.<sup>[34]</sup>
-                    </p>
+</p>
                     <h3 id="4">Qualified teams</h3>
                     <p>
                         As of 31 March 2022, 29 nations have qualified for the finals, including 22 that competed at the
@@ -246,7 +256,7 @@
                         years, their last appearance being in <a
                             href="https://en.wikipedia.org/wiki/1986_FIFA_World_Cup">1986.</a><sup>[35]</sup>
 
-                        Four-time champions and winners of <a href="https://en.wikipedia.org/wiki/UEFA_Euro_2020">UEFA
+Four-time champions and winners of <a href="https://en.wikipedia.org/wiki/UEFA_Euro_2020">UEFA
                             Euro 2020</a>, Italy, failed to qualify for a second successive World Cup for the first time
                         in their history, losing in the qualification play-off semi-finals against <a
                             href="https://en.wikipedia.org/wiki/North_Macedonia_national_football_team">North
@@ -260,16 +270,15 @@
                         <a href="https://en.wikipedia.org/wiki/Ghana_national_football_team">Ghana </a>Ghana on away
                         goals in CAF's final playoff round, having qualified for the previous three World Cups and six
                         out of the last seven.
-                    </p>
+</p>
 
 
 
 
 
+</selection>
 
-        </selection>
-
-    </main>
+</main>
 
 </body>
 
